@@ -1010,7 +1010,7 @@ Write-Host "Domain Controller canary deployment complete"
 - [T1135 - Network Share Discovery](https://attack.mitre.org/techniques/T1135/)
 
 ### Additional Resources
-- [SANS - Honeypots and Deception](https://www.sans.org/white-papers/)
+- [SANS - Honeypots and Deception](https://www.sans.org/white-papers/41)
 - [SpecterOps - BloodHound](https://bloodhound.readthedocs.io/)
 - [Canary Tokens](https://canarytokens.org/)
 
